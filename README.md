@@ -5,11 +5,10 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:rodrigoduartesilva@yahoo.com.br)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+21+979401487)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigoduartesilva&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-## Linguagens mais usadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rodrigoduartesilva&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+<div align="center">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigoduartesilva&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigoduartesilva&layout=compact&langs_count=8&theme=algolia"/>
+</div>
 
 ## Hard Skills
 
