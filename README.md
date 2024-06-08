@@ -1,4 +1,6 @@
-# Olá! Eu sou o Rodrigo Duarte 👋
+# Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu sou o Rodrigo Duarte 
+
+![](https://komarev.com/ghpvc/?username=rodrigoduartesilva&style=for-the-badge&color=orange)
 
 ## Redes e contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigoduar-te/)
@@ -6,12 +8,14 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](
 https://wa.me/55+21+979401487)
 
+## ⚙️ &nbsp;GitHub Analytics
+
 <div align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigoduartesilva&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigoduartesilva&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigoduartesilva&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigoduartesilva&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
 </div>
 
-## Hard Skills
+## 🛠 &nbsp;Tech Stack
 
 
 <div align="center">
