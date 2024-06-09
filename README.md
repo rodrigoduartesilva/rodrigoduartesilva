@@ -1,5 +1,3 @@
-<img align="right" src="https://raw.githubusercontent.com/gist/rodrigoduartesilva/efb58dd4dbc677fdb940edf789075adf/raw/52576273e2f7fd7487741f7933440adca42cd803/githubcard.svg" />
-
 # Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu sou o Rodrigo Duarte 
 
 ![](https://komarev.com/ghpvc/?username=rodrigoduartesilva&style=for-the-badge&color=orange)
@@ -14,6 +12,7 @@ https://wa.me/55+21+979401487)
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigoduartesilva&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+	
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigoduartesilva&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
 </div>
 
