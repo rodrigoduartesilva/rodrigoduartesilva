@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=rodrigoduartesilva&style=for-the-badge&color=orange)
 
-## Redes e contatos
+## :bearded_person: Redes e contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigoduar-te/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:rodrigoduartesilva@yahoo.com.br)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](
