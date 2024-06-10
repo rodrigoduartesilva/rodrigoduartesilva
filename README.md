@@ -34,3 +34,5 @@ https://wa.me/55+21+979401487)
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6400&height=120&section=footer" />
