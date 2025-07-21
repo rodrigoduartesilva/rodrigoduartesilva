@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/gist/rodrigoduartesilva/efb58dd4dbc677fdb940edf789075adf/raw/283d463f39529c90c7904f4e5109dd9f8448e363/githubcard.svg" />
+<img src="Desktop.png" />
 
 <h1 align="center">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu sou o Rodrigo Duarte 👨‍💻</h1>
 
